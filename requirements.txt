@@ -1,6 +1,10 @@
-transformers==4.36.2
-torch
-streamlit
-numpy
-Pillow
-opencv-python
+streamlit>=1.24.0
+torch>=2.0.0
+transformers>=4.30.0
+pillow>=9.0.0
+huggingface_hub>=0.14.0
+accelerate>=0.20.0
+safetensors>=0.3.1
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+bitsandbytes>=0.39.0
